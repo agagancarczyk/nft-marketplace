@@ -1,1 +1,3 @@
-# nft-marketplace
+# academy-kitties-template
+
+The cryptokitty clone.
